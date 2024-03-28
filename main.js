@@ -1,2 +1,3 @@
 var greet = 'HELLO';
-console.log(greet);
+var userName = "sir";
+console.log(greet + " " + userName);
